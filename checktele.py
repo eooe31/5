@@ -180,7 +180,7 @@ def gen_user(choice):
             c = random.choices(a)
             d = random.choices(a)
             s = random.choices(e)
-            f = [c[0], "_", d[0]]
+            f = [c[0], s[0], d[0]]
             random.shuffle(f)
             username = ''.join(f)
             username = username+'bot'
