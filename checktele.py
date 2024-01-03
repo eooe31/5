@@ -177,9 +177,11 @@ def gen_user(choice):
         username = ''.join(f)
         username = username+'bot'
         if username in banned[0]:
-            c = d = random.choices(a)
-            d = random.choices(e)
+            c = random.choices(a)
+            d = random.choices(a)
+            s = random.choices(e)
             f = [c[0], "_", d[0]]
+            random.shuffle(f)
             username = ''.join(f)
             username = username+'bot'
         else:
