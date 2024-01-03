@@ -144,6 +144,6 @@ Types :
 
 9 : sxvvv - s4xxx - sx888 - s7888
 
-10 : s5xbot - sxwbot
+10 : sxxxxx - x77777
 ━━━━━━━━━━━━━━━━━━━━━━━
 '''
